@@ -1,0 +1,16 @@
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\WriterHelper\bin\Debug\WriterHelper.exe.config
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\WriterHelper\bin\Debug\WriterHelper.exe
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\WriterHelper\bin\Debug\WriterHelper.pdb
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\WriterHelper\obj\Debug\WriterHelper.csprojResolveAssemblyReference.cache
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\WriterHelper\obj\Debug\WriterHelper.MainForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\WriterHelper\obj\Debug\WriterHelper.csproj.GenerateResource.Cache
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\WriterHelper\obj\Debug\WriterHelper.exe
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\WriterHelper\obj\Debug\WriterHelper.pdb
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\src\WriterHelper\obj\Debug\WriterHelper.csprojResolveAssemblyReference.cache
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\src\WriterHelper\obj\Debug\WriterHelper.MainForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\src\WriterHelper\obj\Debug\WriterHelper.csproj.GenerateResource.Cache
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\src\WriterHelper\obj\Debug\WriterHelper.exe
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\src\WriterHelper\bin\Debug\WriterHelper.exe.config
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\src\WriterHelper\bin\Debug\WriterHelper.exe
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\src\WriterHelper\bin\Debug\WriterHelper.pdb
+C:\Users\gohmi\Documents\SharpDevelop Projects\WriterHelper\src\WriterHelper\obj\Debug\WriterHelper.pdb
